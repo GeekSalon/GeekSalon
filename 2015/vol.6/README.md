@@ -46,6 +46,6 @@ by 緒方 貴紀 (ABEJA 取締役CTO）
 
 |Author|Title|URL|
 |:--|:--|:--|
-|Masayuki Ohta|事前学習資料 Azure Machine Learning getting started|http://www.slideshare.net/masayuki1986/azure-ml-46562993|
+|Masayuki Ohta|事前学習資料 Azure Machine Learning getting started|http://www.slideshare.net/masayuki1986/azure-ml-46562993|
 |Naoyuki Sakai|ブラックボックスなアドテクを機械学習で推理してみた|http://www.slideshare.net/NaoyukiSakai/short-ver-47316085|
 |Masayuki Ohta|協調フィルタリングを利用した推薦システム構築|http://www.slideshare.net/masayuki1986/recommendation-ml|
