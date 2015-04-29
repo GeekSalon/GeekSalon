@@ -1,3 +1,7 @@
+# Event Page
+
+- [Ventures Salon vol.6 Machine Learning を始めよう！](https://www.facebook.com/events/736789056438293/)(private event page)
+
 # Place
 
 - Time: 2015/04/22(Wed)
