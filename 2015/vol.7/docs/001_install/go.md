@@ -4,7 +4,16 @@ Go言語のインストールについて
 
 # インストール
 
-## 全OS共通版
+下記に、2種類のインストール方法を紹介しています。
+
+- a. 公式のパッケージを利用したインストール
+- b. パッケージマネージャを利用したインストール
+
+お好きな手順をお選び下さい。
+開発に慣れている方は、`b`の手順の方が、インストール・アンインストール
+
+
+## a. 全OS共通版
 
 下記のURLからGoをダウンロードしてください。
 
@@ -24,7 +33,7 @@ Linux版は解凍するとその中に必要なものが入っているので、
 $ export GOROOT="/path/to/your go dir"
 ```
 
-## Windows＠Chocolately
+## b. Windows(Chocolately)
 
 ※ VirtualBoxやVagrantに慣れている方は、あえてWindowsを使わずに、Linux上でやった方がやりやすいかもしれません。
 
@@ -103,22 +112,31 @@ C:\Windows\system32 > refreshenv
 ```
 
 
-## Mac OSX
+## b. Mac OSX(Homebrew)
 
-OSXではhomebrewを使ってインストールできます。
-ここではhomebrewを使用したインストール手順を説明します。
+OSXではHomebrewを使ってインストールできます。
+ここではHomebrewを使用したインストール手順を説明します。
 
-### gitのインストール
-
-XcodeとCommand Line Toolsをインストールしてください
-
-### homebrewのインストール
+### Homebrewのインストール
 
 ```sh
 $ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
 $ brew doctor
 $ brew update
 ```
+
+### gitのインストール
+
+XcodeとCommand Line Toolsをインストールするとgitもインストールされます。
+Xcodeは`App Store`アプリからインストールすることができます。
+
+iOS開発とか興味ないし、1GB以上あるものを入れたくないって人はHomebrewを使っていれることができます。
+
+```sh
+$ brew install git
+```
+
+Xcode経由とHomebrew両方入っている場合はPATHの優先順位の関係で、Xcodeのgitが使われます。
 
 ### golangのインストール
 
