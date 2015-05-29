@@ -75,7 +75,7 @@ ok  GeekSalon/2015/vol.7/docs/003_exercise/01	0.006s
 
 ## 課題
 
-次の要件を満たす関数 PrintFizzBuzz を作って下さい
+次の要件を満たす関数 FizzBuzz を作って下さい
 
 - 要件
     - 引数には int を一つ取ります
