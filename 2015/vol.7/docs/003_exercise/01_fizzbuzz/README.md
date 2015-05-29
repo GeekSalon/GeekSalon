@@ -23,7 +23,7 @@
 
 ```go
 // 例
-packege fizzbuzz
+package fizzbuzz
 
 import "fmt"
 
