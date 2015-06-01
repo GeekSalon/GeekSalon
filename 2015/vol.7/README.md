@@ -81,4 +81,5 @@ Geek Salon vol.7 のテーマは、前回の投票結果通り、golang（Go言�
 |:--|:--|:--|
 |Takuma Morikawa|各種ドキュメント|https://github.com/GeekSalon/GeekSalon/tree/master/2015/vol.7/docs|
 |kaneshin|クロスコンパイルについて|https://speakerdeck.com/kaneshin/kurosukonpairunituite-geeksalon-number-7|
+|[@k_yokomi](https://twitter.com/k_yokomi)|私がGo言語を選んだ理由|https://speakerdeck.com/kaneshin/kurosukonpairunituite-geeksalon-number-7|
 |||(TBA)|
